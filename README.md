@@ -1,4 +1,6 @@
-<img src="GoogleGenrativeAi\frontend\googleai\public\GenerativeAi.png">
+<img src="/frontend\googleai\public\GenerativeAi.png">
+<img src="/frontend\googleai\public\GenrativAi.png">
+
 # Getting Started with Create React App
 
 
