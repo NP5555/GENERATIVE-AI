@@ -1,7 +1,7 @@
 ## About me page.
 ##### live link: <a href='https://naeem-ashraf.vercel.app/'>
 
-<img src="/assets/probook-preview.PNG">
+<img src="frontend\googleai\public\GenerativeAi.png">
 
 ## Contact me:
 <ul>
