@@ -3,7 +3,7 @@
 
 # NGS Generative AI is a React-based application for generating creative and contextual AI content using prompts. Built with modern tools like React and Axios, it provides an interactive user interface for seamless text generation.
 
-##Features
+# Features
 AI-Powered Text Generation: Generate content by entering a prompt.
 Responsive UI: Clean and user-friendly interface.
 Error Handling: Displays error messages for failed requests.
